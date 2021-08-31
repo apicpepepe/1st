@@ -1,3 +1,5 @@
 Hello!
 
 Hello git config --global
+Hello git config --global
+Hello git config --global
